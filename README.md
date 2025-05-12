@@ -19,4 +19,4 @@
 此專案可以使用 `npm run build` 進行靜態部署，並使用 `npm start` 進行伺服。
 
 For more details on Remix, visit [Remix Documentation](https://remix.run/docs).
-# 20250512 第一天
+# 20250512 第1天：專案初始化與環境設置
